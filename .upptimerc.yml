@@ -3,8 +3,8 @@ owner: AayushmanChulet # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: AirBnB-Clone
-    url: https://airbnb-clone-vvjd.onrender.com
+  - name: ihr
+    url: https://www.ihr.live/
   - name: IHR Archive
     check: "tcp-ping"
     url: archive.ihr.live
