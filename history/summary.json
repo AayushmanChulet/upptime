@@ -1,20 +1,20 @@
 [
   {
-    "name": "AirBnB-Clone",
-    "url": "https://airbnb-clone-vvjd.onrender.com",
-    "icon": "https://icons.duckduckgo.com/ip3/airbnb-clone-vvjd.onrender.com.ico",
-    "slug": "air-bn-b-clone",
+    "name": "ihr",
+    "url": "https://www.ihr.live/",
+    "icon": "https://icons.duckduckgo.com/ip3/www.ihr.live.ico",
+    "slug": "ihr",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2634,
-    "timeDay": 2634,
-    "timeWeek": 2634,
-    "timeMonth": 2634,
-    "timeYear": 2634,
+    "time": 538,
+    "timeDay": 538,
+    "timeWeek": 538,
+    "timeMonth": 538,
+    "timeYear": 538,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 180,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 391,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391,
+    "time": 506,
+    "timeDay": 506,
+    "timeWeek": 506,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   }
 ]
