@@ -5,8 +5,16 @@ repo: upptime # The name of this repository
 sites:
   - name: AirBnB-Clone
     url: https://airbnb-clone-vvjd.onrender.com
-  - name: Todo
-    url: todo-plum-five-55.vercel.app
+  - name: IHR Archive (TCP Check)
+    check: "tcp-ping"
+    url: archive.ihr.live
+    port: 80
+  - name: IYP Database Connection
+    check: "tcp-ping"
+    url: iyp-bolt.iijlab.net
+    port: 443
+  - name: iyp
+    url: https://iyp.iijlab.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
