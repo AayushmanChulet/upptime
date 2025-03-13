@@ -5,11 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: AirBnB-Clone
     url: https://airbnb-clone-vvjd.onrender.com
-  - name: IHR Archive (TCP Check)
+  - name: IHR Archive
     check: "tcp-ping"
     url: archive.ihr.live
     port: 80
-  - name: IYP Database Connection
+  - name: IYP Database
     check: "tcp-ping"
     url: iyp-bolt.iijlab.net
     port: 443
