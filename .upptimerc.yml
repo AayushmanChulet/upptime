@@ -15,6 +15,10 @@ sites:
     port: 443
   - name: iyp
     url: https://iyp.iijlab.net/
+  - name: WebSocket
+    check: "tcp-ping"
+    url: wss://iyp-bolt.iijlab.net
+    port: 443 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
