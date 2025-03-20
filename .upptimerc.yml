@@ -16,7 +16,7 @@ sites:
   - name: iyp
     url: https://iyp.iijlab.net/
   - name: Neo4j Database
-    url: https://de66-49-205-43-52.ngrok-free.app/db/data
+    url: https://de66-49-205-43-52.ngrok-free.app/
     method: GET
     expectedStatusCodes:
       - 200
