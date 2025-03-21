@@ -77,18 +77,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/de66-49-205-43-52.ngrok-free.app.ico",
     "slug": "neo4j-database",
     "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptime": "20.13%",
+    "uptimeDay": "20.13%",
+    "uptimeWeek": "20.13%",
+    "uptimeMonth": "20.13%",
+    "uptimeYear": "20.13%",
     "time": 540,
     "timeDay": 540,
     "timeWeek": 540,
     "timeMonth": 540,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2025-03-20": 0
+      "2025-03-21": 44,
+      "2025-03-20": 24
     }
   }
 ]
