@@ -15,13 +15,15 @@ sites:
     port: 443
   - name: iyp
     url: https://iyp.iijlab.net/
-  - name: Neo4j Database
-    url: https://de66-49-205-43-52.ngrok-free.app/
-    method: GET
+  - name: Neo4j HTTP API
+    url: $NEO4J_URL/db/neo4j/tx/commit
+    method: POST
+    headers:
+      - "Authorization: Basic $NEO4J_AUTH"
+      - "Content-Type: application/json"
+    body: '{"statements":[{"statement":"MATCH (n) RETURN count(n)"}]}'
     expectedStatusCodes:
       - 200
-    headers:
-      - "Authorization: Basic bmVvNGo6dGVzdDEyMzQ="
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
