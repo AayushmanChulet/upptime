@@ -1,0 +1,7 @@
+url: $NEO4J_URL/db/neo4j/tx/commit
+status: up
+code: 200
+responseTime: 563
+lastUpdated: 2025-03-21T08:57:17.728Z
+startTime: 2025-03-21T08:57:17.162Z
+generator: Upptime <https://github.com/upptime/upptime>
