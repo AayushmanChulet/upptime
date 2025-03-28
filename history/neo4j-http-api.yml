@@ -1,7 +1,7 @@
 url: $NEO4J_URL/db/neo4j/tx/commit
 status: down
 code: 404
-responseTime: 207
-lastUpdated: 2025-03-27T23:13:32.996Z
+responseTime: 196
+lastUpdated: 2025-03-28T23:13:08.353Z
 startTime: 2025-03-21T08:57:17.162Z
 generator: Upptime <https://github.com/upptime/upptime>
