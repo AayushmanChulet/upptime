@@ -17,7 +17,7 @@ sites:
     url: https://iyp.iijlab.net/
   - name: Countries API
     url: https://www.ihr.live/ihr/api/countries/?code=JP&format=json&name=Japan
-    __dangerous__body_down_if_text_missing: '{"count": 1, "next": null, "previous": null, "results": [{"code": "JP", "name": "Japan"}]}'
+    __dangerous__body_down_if_text_missing: '"code":"JP"'
   - name: Neo4j HTTP API
     url: $NEO4J_URL/db/neo4j/tx/commit
     method: POST
