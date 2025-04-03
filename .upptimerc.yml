@@ -9,6 +9,11 @@ sites:
     check: "tcp-ping"
     url: archive.ihr.live
     port: 80
+  - name: IHR-Archive
+    url: https://archive.ihr.live/ihr/
+    expectedStatusCodes:
+      - 200
+    
   - name: IYP Database
     check: "tcp-ping"
     url: iyp-bolt.iijlab.net
