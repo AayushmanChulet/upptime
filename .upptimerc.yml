@@ -23,24 +23,24 @@ sites:
   - name: Countries API
     url: https://www.ihr.live/ihr/api/countries/?code=JP&format=json&name=Japan
     __dangerous__body_down_if_text_missing: '"code":"JP"'
-  - name: Neo4j HTTP API
-    url: $NEO4J_URL/db/neo4j/tx/commit
-    method: POST
-    headers:
-      - "Authorization: Basic $NEO4J_AUTH"
-      - "Content-Type: application/json"
-    body: '{"statements":[{"statement":"MATCH (n) RETURN count(n)"}]}'
-    expectedStatusCodes:
-      - 200
+  # - name: Neo4j HTTP API
+  #   url: $NEO4J_URL/db/neo4j/tx/commit
+  #   method: POST
+  #   headers:
+  #     - "Authorization: Basic $NEO4J_AUTH"
+  #     - "Content-Type: application/json"
+  #   body: '{"statements":[{"statement":"MATCH (n) RETURN count(n)"}]}'
+  #   expectedStatusCodes:
+  #     - 200
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Internet Health Report
+  introTitle: Internet Health report
+  introMessage: Hey this is an example status page
   navbar:
     - title: Status
       href: /
