@@ -1,7 +1,7 @@
 url: https://www.ihr.live/ihr/api/countries/?code=JP&format=json&name=Japan
 status: up
 code: 200
-responseTime: 448
-lastUpdated: 2025-04-12T23:12:54.144Z
+responseTime: 416
+lastUpdated: 2025-04-13T23:14:29.434Z
 startTime: 2025-04-02T22:20:09.707Z
 generator: Upptime <https://github.com/upptime/upptime>
