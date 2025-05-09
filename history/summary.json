@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 540,
-    "timeDay": 435,
-    "timeWeek": 487,
+    "time": 539,
+    "timeDay": 481,
+    "timeWeek": 493,
     "timeMonth": 477,
-    "timeYear": 540,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-03-27": 80
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 224,
-    "timeWeek": 250,
-    "timeMonth": 224,
-    "timeYear": 160,
+    "time": 159,
+    "timeDay": 146,
+    "timeWeek": 220,
+    "timeMonth": 222,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 224,
-    "timeWeek": 250,
-    "timeMonth": 224,
-    "timeYear": 160,
+    "time": 159,
+    "timeDay": 146,
+    "timeWeek": 220,
+    "timeMonth": 222,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 165,
-    "timeWeek": 170,
-    "timeMonth": 151,
+    "timeDay": 103,
+    "timeWeek": 161,
+    "timeMonth": 149,
     "timeYear": 150,
     "dailyMinutesDown": {}
   },
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 749,
-    "timeWeek": 402,
-    "timeMonth": 305,
-    "timeYear": 335,
+    "time": 331,
+    "timeDay": 78,
+    "timeWeek": 372,
+    "timeMonth": 303,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 13,
-    "timeWeek": 271,
+    "time": 306,
+    "timeDay": 400,
+    "timeWeek": 261,
     "timeMonth": 333,
-    "timeYear": 303,
+    "timeYear": 306,
     "dailyMinutesDown": {}
   }
 ]
